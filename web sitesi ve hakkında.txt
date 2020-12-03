@@ -1,0 +1,19 @@
+
+web sitemin adresi :     http://ahmetsensoy.cf/
+
+kullanıcı adı : sa
+
+sifre :         12345
+
+
+1. Site yedekleme işlemini localhost sunucusu üzerinden All One Migration eklentisi ile yapıldı.
+
+2. Site yedekleme  FTP ile yapıldı. Web sitesi dosyalarının ve veritabanının yedeği alındı.
+
+
+Vize ödevi istenilen adımlar yapılmıstır.
+
+
+AHMET ŞENSOY
+Ders: İçerik Yönetim Sistemi
+Sınıf: (TBMYO) Bilgisayar Programcılığı (İ.Ö.)
